@@ -1,1 +1,6 @@
-# Kickstart_JoelBabuguza_2526
+# Kickstart\_JoelBabuguza\_2526
+
+tekst tekst print("hello world")
+
+
+
